@@ -16,6 +16,7 @@
 ### Blogs posts
 - [**[Medium]:Beyond Divine Inspiration: Exploring AI’s Impact on Our Notion of Creativity**](https://medium.com/@treelunar/beyond-divine-inspiration-exploring-ais-impact-on-our-notion-of-creativity-cb02c6042254)
 <!-- BLOG-POST-LIST:START -->
+- [Beyond Divine Inspiration: Exploring AI’s Impact on Our Notion of Creativity](https://medium.com/@treelunar/beyond-divine-inspiration-exploring-ais-impact-on-our-notion-of-creativity-cb02c6042254?source=rss-7e4f74601f2f------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
