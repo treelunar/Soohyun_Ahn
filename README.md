@@ -14,6 +14,7 @@
 - 😄 Pronouns: she/her/hers
 
 ### Blogs posts
+- [**[Medium]:Beyond Divine Inspiration: Exploring AI’s Impact on Our Notion of Creativity**](https://medium.com/@treelunar/beyond-divine-inspiration-exploring-ais-impact-on-our-notion-of-creativity-cb02c6042254)
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
