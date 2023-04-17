@@ -5,7 +5,7 @@
 
 - ⚡ I’m currently working on [ReelWhisperer: Story-Driven Movie Recommendations](https://github.com/treelunar/2023_Capstone_BSTN)
 
-- 🌱 I’m currently interested in **all about Natural Language Procession (NLP)**
+- 🌱 I’m currently interested in all about Natural Language Procession (NLP)
 
 - 📝 I occasionally write articles on [**Medium**](https://medium.com/@treelunar)
 
