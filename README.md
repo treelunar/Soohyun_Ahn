@@ -1,13 +1,17 @@
-<h1 align="center">Hi 👋, I'm Soohyun (Soo) Ahn.</h1>
-<h3 align="center">I am a data scientist passionate about data and philosophy!</h3>
+<h1 align="left">Soohyun's GitHub Profile</h1>
+
+### Hi and welcome! 👋
+### I am a data scientist passionate about data and philosophy!
 
 - 🔭 I’m currently working on [ReelWhisperer: Story-Driven Movie Recommendations](https://github.com/treelunar/2023_Capstone_BSTN)
 
-- 🌱 I’m currently learning **all about Natural Language Procession (NLP)**
+- 🌱 I’m currently interested in **all about Natural Language Procession (NLP)**
 
-- 📝 I occasionally write articles on [https://medium.com/@treelunar](https://medium.com/@treelunar)
+- 📝 I occasionally write articles on [**Medium**](https://medium.com/@treelunar)
 
-- 📫 How to reach me **soohyun.ahn.kr@gmail.com**
+- 📫 You can reach me via **soohyun.ahn.kr@gmail.com**
+
+- 😄 Pronouns: she/her/hers
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
