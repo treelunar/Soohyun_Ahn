@@ -3,7 +3,7 @@
 ### Hi and welcome! 👋
 ### I am a data scientist passionate about data and philosophy!
 
-- 🔭 I’m currently working on [ReelWhisperer: Story-Driven Movie Recommendations](https://github.com/treelunar/2023_Capstone_BSTN)
+- ⚡ I’m currently working on [ReelWhisperer: Story-Driven Movie Recommendations](https://github.com/treelunar/2023_Capstone_BSTN)
 
 - 🌱 I’m currently interested in **all about Natural Language Procession (NLP)**
 
