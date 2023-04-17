@@ -18,4 +18,4 @@ jobs:
           node-version: '16.x' # Use Node.js 16
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
-          feed_list: "https://medium.com/feed/@treelunar"
+          feed_list: "https://medium.com/@treelunar/feed"
