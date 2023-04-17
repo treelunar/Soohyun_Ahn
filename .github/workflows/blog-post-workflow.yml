@@ -11,6 +11,11 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
+        with:
+          ref: v2 # Use the latest version of the checkout action
+      - uses: actions/setup-node@v2
+        with:
+          node-version: '16.x' # Use Node.js 16
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
           feed_list: "https://medium.com/feed/@treelunar"
