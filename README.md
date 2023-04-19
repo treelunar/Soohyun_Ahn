@@ -1,4 +1,5 @@
 <h1 align="left">Soohyun's GitHub Profile</h1>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=treelunar&label=Profile%20views&color=0e75b6&style=flat" alt="treelunar" /> </p>
 
 ### Hi and welcome! 👋
 ### I am a data scientist passionate about data and philosophy!
