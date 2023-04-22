@@ -23,7 +23,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/soohyun-ahn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="soohyun-ahn" height="30" width="40" /></a>
 <a href="https://kaggle.com/treelunar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="treelunar" height="30" width="40" /></a>
-<a href="https://medium.com/@treelunar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@treelunar" height="30" width="40" /></a>
+<a href="https://www.medium.com/@treelunar" target="_blank"><img align="center" src="https://img.shields.io/badge/Medium-000000?style=flat-square&logo=Medium&logoColor=white"/></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
