@@ -1,5 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&height=280&section=header&text=Welcome!&fontSize=90&animation=fadeIn&fontAlignY=38&color=gradient&desc=Soohyun's%20GitHub%20Profile&descAlignY=51&descAlign=62)
-
+![header](https://capsule-render.vercel.app/api?type=waving&height=280&section=header&text=Welcome!&fontSize=90&animation=fadeIn&fontAlignY=38&color=gradient&desc=Soohyun's%20GitHub%20Profile&descAlignY=55&descAlign=62)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=treelunar&label=Profile%20views&color=0e75b6&style=flat" alt="treelunar" /> </p>
 
 ### Hi and welcome! 👋
