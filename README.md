@@ -16,6 +16,7 @@
 
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [The Power of Critical Thinking: Balancing Reasoning and Rhetoric](https://medium.com/@treelunar/the-power-of-critical-thinking-balancing-reasoning-and-rhetoric-24ce11ae783d?source=rss-7e4f74601f2f------2)
 - [Beyond Divine Inspiration: Exploring AI’s Impact on Our Notion of Creativity](https://medium.com/@treelunar/beyond-divine-inspiration-exploring-ais-impact-on-our-notion-of-creativity-cb02c6042254?source=rss-7e4f74601f2f------2)
 <!-- BLOG-POST-LIST:END -->
 
