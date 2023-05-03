@@ -16,6 +16,7 @@
 
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Unintended Consequences: How Proxy Selection Perpetuates Bias in Healthcare Algorithms](https://medium.com/@treelunar/unintended-consequences-how-proxy-selection-perpetuates-bias-in-healthcare-algorithms-ce20586b33f1?source=rss-7e4f74601f2f------2)
 - [Human Black Box vs. Machine Black Box: Balancing Empathy and Efficiency](https://medium.com/@treelunar/human-black-box-vs-machine-black-box-balancing-empathy-and-efficiency-29ecd26fe252?source=rss-7e4f74601f2f------2)
 - [Beyond Good Intentions: Navigating the Difference between Harm and Wrong](https://medium.com/@treelunar/beyond-good-intentions-navigating-the-difference-between-harm-and-wrong-8babeda63d19?source=rss-7e4f74601f2f------2)
 - [The Power of Critical Thinking: Balancing Reasoning and Rhetoric](https://medium.com/@treelunar/the-power-of-critical-thinking-balancing-reasoning-and-rhetoric-24ce11ae783d?source=rss-7e4f74601f2f------2)
