@@ -14,14 +14,15 @@
 
 - 😄 Pronouns: she/her/hers
 
-### Blog posts
+### 3 Most recent blog posts
 <!-- BLOG-POST-LIST:START -->
 - [Unintended Consequences: How Proxy Selection Perpetuates Bias in Healthcare Algorithms](https://medium.com/@treelunar/unintended-consequences-how-proxy-selection-perpetuates-bias-in-healthcare-algorithms-ce20586b33f1?source=rss-7e4f74601f2f------2)
 - [Human Black Box vs. Machine Black Box: Balancing Empathy and Efficiency](https://medium.com/@treelunar/human-black-box-vs-machine-black-box-balancing-empathy-and-efficiency-29ecd26fe252?source=rss-7e4f74601f2f------2)
 - [Beyond Good Intentions: Navigating the Difference between Harm and Wrong](https://medium.com/@treelunar/beyond-good-intentions-navigating-the-difference-between-harm-and-wrong-8babeda63d19?source=rss-7e4f74601f2f------2)
-- [The Power of Critical Thinking: Balancing Reasoning and Rhetoric](https://medium.com/@treelunar/the-power-of-critical-thinking-balancing-reasoning-and-rhetoric-24ce11ae783d?source=rss-7e4f74601f2f------2)
-- [Beyond Divine Inspiration: Exploring AI’s Impact on Our Notion of Creativity](https://medium.com/@treelunar/beyond-divine-inspiration-exploring-ais-impact-on-our-notion-of-creativity-cb02c6042254?source=rss-7e4f74601f2f------2)
 <!-- BLOG-POST-LIST:END -->
+
+### News to share!
+- ⛅ I passed the [AWS Cloud Practitioner exam](https://www.credly.com/badges/20f75f7b-e8f7-48da-b7b8-912243c5eadd) and earned the certification in May 2023!
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
