@@ -17,4 +17,4 @@ jobs:
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
           feed_list: "https://medium.com/@treelunar/feed"
-          limit: 3 # Limit to the latest 3 posts
+          limit: 5 # Limit to the latest 5 posts
