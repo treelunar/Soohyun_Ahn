@@ -24,6 +24,7 @@
 <!-- BLOG-POST-LIST:END -->
 
 ### News to share!
+- 🐍 I passed the "Python" LinkedIn Skill Assessment in June!
 - ⛅ I passed the [AWS Cloud Practitioner exam](https://www.credly.com/badges/20f75f7b-e8f7-48da-b7b8-912243c5eadd) and earned the certification in May 2023!
 
 <h3 align="left">Connect with me:</h3>
