@@ -16,11 +16,11 @@
 
 ### Most recent blog posts
 <!-- BLOG-POST-LIST:START -->
+- [The Virtue of Not Knowing: Intellectual Humility in AI Research](https://pub.towardsai.net/the-virtue-of-not-knowing-intellectual-humility-in-ai-research-82413f288156?source=rss-7e4f74601f2f------2)
 - [Trust in AI: The Hidden Role of Scientific Evidence](https://medium.com/data-and-beyond/can-you-trust-ai-98738eb5298d?source=rss-7e4f74601f2f------2)
 - [AI’s Ethical Moments?](https://medium.com/data-and-beyond/ais-ethical-moments-1a3ed11c800e?source=rss-7e4f74601f2f------2)
 - [Unintended Consequences: How Proxy Selection Perpetuates Bias in Healthcare Algorithms](https://medium.com/data-and-beyond/unintended-consequences-how-proxy-selection-perpetuates-bias-in-healthcare-algorithms-ce20586b33f1?source=rss-7e4f74601f2f------2)
 - [Human Black Box vs. Machine Black Box: Balancing Empathy and Efficiency](https://medium.com/data-and-beyond/human-black-box-vs-machine-black-box-balancing-empathy-and-efficiency-29ecd26fe252?source=rss-7e4f74601f2f------2)
-- [Beyond Good Intentions: Navigating the Difference between Harm and Wrong](https://medium.com/@treelunar/beyond-good-intentions-navigating-the-difference-between-harm-and-wrong-8babeda63d19?source=rss-7e4f74601f2f------2)
 <!-- BLOG-POST-LIST:END -->
 
 ### News to share!
