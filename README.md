@@ -4,9 +4,9 @@
 ### Hi and welcome! 👋
 ### I am a data scientist passionate about data and philosophy!
 
-- ⚡ I’m currently working on [**ReelWhisperer: Story-Driven Movie Recommendations**](https://github.com/treelunar/2023_Capstone_BSTN)
+- ⚡ I’m currently doing an airline review analysis, and the [first EDA part](https://www.kaggle.com/code/treelunar/airline-review-analysis-part-1-eda) is on Kaggle!
 
-- 🌱 I’m currently interested in all about Natural Language Procession (NLP)
+- 🌱 My first project is here: [**ReelWhisperer: Story-Driven Movie Recommendations**](https://github.com/treelunar/2023_Capstone_BSTN)
 
 - 📝 I occasionally write articles on [**Medium**](https://medium.com/@treelunar)
 
