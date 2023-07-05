@@ -4,7 +4,7 @@
 ### Hi and welcome! 👋
 ### I am a data scientist passionate about data and philosophy!
 
-- ⚡ I’m currently doing an airline review analysis, and the [**first EDA part**](https://www.kaggle.com/code/treelunar/airline-review-analysis-part-1-eda) is on Kaggle!
+- ✈ I’m currently doing sentiment analysis on airline reviews, and the [**first EDA part**](https://www.kaggle.com/code/treelunar/airline-review-analysis-part-1-eda) is on Kaggle!
 
 - 🌱 My first project is here: [**ReelWhisperer: Story-Driven Movie Recommendations**](https://github.com/treelunar/2023_Capstone_BSTN)
 
@@ -24,6 +24,7 @@
 <!-- BLOG-POST-LIST:END -->
 
 ### News to share!
+- 🖥 I passed the "Git" LinkedIn Skill Assessment in July 2023! 
 - 🐍 I passed the "Python" LinkedIn Skill Assessment in June 2023!
 - ⛅ I passed the [AWS Cloud Practitioner exam](https://www.credly.com/badges/20f75f7b-e8f7-48da-b7b8-912243c5eadd) and earned the certification in May 2023!
 - 🏆 I earned a Data Science diploma from [BrainStation](https://brainstation.io/course/online/remote-data-science-bootcamp) in April 2023! (The 12-week learning journey was very intensive but also fantastic!)
