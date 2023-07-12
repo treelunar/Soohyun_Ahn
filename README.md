@@ -28,6 +28,7 @@
 - 🐍 I passed the "Python" LinkedIn Skill Assessment in June 2023!
 - ⛅ I passed the [AWS Cloud Practitioner exam](https://www.credly.com/badges/20f75f7b-e8f7-48da-b7b8-912243c5eadd) and earned the certification in May 2023!
 - 🏆 I earned a Data Science diploma from [BrainStation](https://brainstation.io/course/online/remote-data-science-bootcamp) in April 2023! (The 12-week learning journey was very intensive but also fantastic!)
+- 🎬 I web-scraped some data and uploaded it to Kaggle! Check it out: [Bechdel Test Movies Dataset](https://www.kaggle.com/datasets/treelunar/bechdel-test-movies-as-of-feb-28-2023)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
