@@ -2,7 +2,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=treelunar&label=Profile%20views&color=0e75b6&style=flat" alt="treelunar" /> </p>
 
 ### Hi and welcome! 👋
-### I am a data scientist passionate about data and philosophy!
+### I am a data scientist with the love of philosophy!
 
 - ✈ I’m currently doing [**sentiment analysis on airline reviews**](https://github.com/treelunar/2023_Airline_Reviews_Analysis), and the [**first EDA part**](https://www.kaggle.com/code/treelunar/airline-review-analysis-part-1-eda) is on Kaggle!
 
