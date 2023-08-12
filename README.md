@@ -16,11 +16,11 @@
 
 ### Most recent blog posts
 <!-- BLOG-POST-LIST:START -->
+- [OMG! My Daughter Wants to Be an Artist](https://medium.com/@treelunar/omg-my-daughter-wants-to-be-an-artist-58263f577bcc?source=rss-7e4f74601f2f------2)
 - [Disrupting Productivity Paranoia: Yes to Microsoft 365 Copilot?](https://pub.towardsai.net/disrupting-productivity-paranoia-yes-to-microsoft-365-copilot-e094b2f04593?source=rss-7e4f74601f2f------2)
 - [AI Recommender Systems: Assistive Optimizers or Manipulative Nudges?](https://medium.com/data-and-beyond/ai-recommender-systems-assistive-optimizers-or-manipulative-nudges-9df57d467ad4?source=rss-7e4f74601f2f------2)
 - [The Virtue of Not Knowing: Intellectual Humility in AI Research](https://pub.towardsai.net/the-virtue-of-not-knowing-intellectual-humility-in-ai-research-82413f288156?source=rss-7e4f74601f2f------2)
 - [Trust in AI: The Hidden Role of Scientific Evidence](https://medium.com/data-and-beyond/can-you-trust-ai-98738eb5298d?source=rss-7e4f74601f2f------2)
-- [AI’s Ethical Moments?](https://medium.com/data-and-beyond/ais-ethical-moments-1a3ed11c800e?source=rss-7e4f74601f2f------2)
 <!-- BLOG-POST-LIST:END -->
 
 ### News to share!
