@@ -16,11 +16,11 @@
 
 ### Most recent blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Wanted: Poets by AI companies](https://medium.com/brass-for-brain/wanted-poets-by-ai-companies-ef9cc6905ec1?source=rss-7e4f74601f2f------2)
 - [Behind the Veil of Medium: Who Are You, Truly?](https://medium.com/@treelunar/behind-the-veil-of-medium-who-are-you-truly-9b19b5b73de?source=rss-7e4f74601f2f------2)
 - [Fostering Human Connection by Emotional Outsourcing?](https://medium.com/brass-for-brain/fostering-human-connection-by-emotional-outsourcing-907cf0dbcd10?source=rss-7e4f74601f2f------2)
 - [OMG! My Daughter Wants to Be an Artist](https://medium.com/@treelunar/omg-my-daughter-wants-to-be-an-artist-58263f577bcc?source=rss-7e4f74601f2f------2)
 - [Disrupting Productivity Paranoia: Yes to Microsoft 365 Copilot?](https://pub.towardsai.net/disrupting-productivity-paranoia-yes-to-microsoft-365-copilot-e094b2f04593?source=rss-7e4f74601f2f------2)
-- [AI Recommender Systems: Assistive Optimizers or Manipulative Nudges?](https://medium.com/data-and-beyond/ai-recommender-systems-assistive-optimizers-or-manipulative-nudges-9df57d467ad4?source=rss-7e4f74601f2f------2)
 <!-- BLOG-POST-LIST:END -->
 
 ### News to share!
