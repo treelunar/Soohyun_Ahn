@@ -8,13 +8,11 @@
 
 - 🌱 My first project is here: [**ReelWhisperer: Story-Driven Movie Recommendations**](https://github.com/treelunar/2023_Capstone_BSTN)
 
-- 📝 I occasionally write articles on [**Medium**](https://medium.com/@treelunar)
-
 - 📫 You can reach me via **soohyun.ahn.kr@gmail.com**
 
 - 😄 Pronouns: she/her/hers
 
-### Most recent blog posts
+### Most recent blog posts in [**Medium**](https://medium.com/@treelunar)
 <!-- BLOG-POST-LIST:START -->
 - [The Loss of Diversity: From Royal Dynasty Collapse to AI “Model Collapse”](https://medium.com/brass-for-brain/the-loss-of-diversity-from-royal-dynasty-collapse-to-ai-model-collapse-157dcd9e2186?source=rss-7e4f74601f2f------2)
 - [Wanted: Poets by AI companies](https://medium.com/brass-for-brain/wanted-poets-by-ai-companies-ef9cc6905ec1?source=rss-7e4f74601f2f------2)
