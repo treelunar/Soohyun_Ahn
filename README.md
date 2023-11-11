@@ -24,6 +24,7 @@
 <!-- BLOG-POST-LIST:END -->
 
 ### News to share!
+- ☑ I earned a certificate in [Data Integration with Microsoft Azure Data Factory](https://www.coursera.org/account/accomplishments/certificate/WDTJHQMJJBBC) in August 2023!
 - 🖥 I passed the "Git" LinkedIn Skill Assessment in July 2023! 
 - 🐍 I passed the "Python" LinkedIn Skill Assessment in June 2023!
 - ⛅ I passed the [AWS Cloud Practitioner exam](https://www.credly.com/badges/20f75f7b-e8f7-48da-b7b8-912243c5eadd) and earned the certification in May 2023!
