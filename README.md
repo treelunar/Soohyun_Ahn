@@ -14,11 +14,11 @@
 
 ### Most recent blog posts in [**Medium**](https://medium.com/@treelunar)
 <!-- BLOG-POST-LIST:START -->
+- [When ChatGPT Reigns in the Classroom](https://medium.com/@treelunar/when-chatgpt-reigns-in-the-classroom-21f1cd769dac?source=rss-7e4f74601f2f------2)
 - [The Loss of Diversity: From Royal Dynasty Collapse to AI “Model Collapse”](https://medium.com/brass-for-brain/the-loss-of-diversity-from-royal-dynasty-collapse-to-ai-model-collapse-157dcd9e2186?source=rss-7e4f74601f2f------2)
 - [Wanted: Poets by AI companies](https://medium.com/brass-for-brain/wanted-poets-by-ai-companies-ef9cc6905ec1?source=rss-7e4f74601f2f------2)
 - [Behind the Veil of Medium: Who Are You, Truly?](https://medium.com/@treelunar/behind-the-veil-of-medium-who-are-you-truly-9b19b5b73de?source=rss-7e4f74601f2f------2)
 - [Fostering Human Connection by Emotional Outsourcing?](https://medium.com/brass-for-brain/fostering-human-connection-by-emotional-outsourcing-907cf0dbcd10?source=rss-7e4f74601f2f------2)
-- [OMG! My Daughter Wants to Be an Artist](https://medium.com/@treelunar/omg-my-daughter-wants-to-be-an-artist-58263f577bcc?source=rss-7e4f74601f2f------2)
 <!-- BLOG-POST-LIST:END -->
 
 ### News to share!
