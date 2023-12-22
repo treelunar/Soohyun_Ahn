@@ -10,15 +10,6 @@
 
 - 😄 Pronouns: she/her/hers
 
-### Most recent blog posts in [**Medium**](https://medium.com/@treelunar)
-<!-- BLOG-POST-LIST:START -->
-- [Individually Brighter, Collectively Duller](https://medium.com/@treelunar/individually-brighter-collectively-duller-cab61afe34ff?source=rss-7e4f74601f2f------2)
-- [When ChatGPT Reigns in the Classroom](https://medium.com/@treelunar/when-chatgpt-reigns-in-the-classroom-21f1cd769dac?source=rss-7e4f74601f2f------2)
-- [The Loss of Diversity: From Royal Dynasty Collapse to AI “Model Collapse”](https://medium.com/brass-for-brain/the-loss-of-diversity-from-royal-dynasty-collapse-to-ai-model-collapse-157dcd9e2186?source=rss-7e4f74601f2f------2)
-- [Wanted: Poets by AI companies](https://medium.com/brass-for-brain/wanted-poets-by-ai-companies-ef9cc6905ec1?source=rss-7e4f74601f2f------2)
-- [Behind the Veil of Medium: Who Are You, Truly?](https://medium.com/@treelunar/behind-the-veil-of-medium-who-are-you-truly-9b19b5b73de?source=rss-7e4f74601f2f------2)
-<!-- BLOG-POST-LIST:END -->
-
 ### News to share!
 - ☑ I earned a certificate in [Data Integration with Microsoft Azure Data Factory](https://www.coursera.org/account/accomplishments/certificate/WDTJHQMJJBBC) in August 2023!
 - 🖥 I passed the "Git" LinkedIn Skill Assessment in July 2023! 
@@ -31,7 +22,6 @@
 <p align="left">
 <a href="https://linkedin.com/in/soohyun-ahn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="soohyun-ahn" height="30" width="40" /></a>
 <a href="https://kaggle.com/treelunar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="treelunar" height="30" width="40" /></a>
-<a href="https://www.medium.com/@treelunar" target="_blank"><img align="center" src="https://img.shields.io/badge/Medium-000000?style=flat-square&logo=Medium&logoColor=white"/></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
