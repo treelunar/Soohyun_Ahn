@@ -2,7 +2,10 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=treelunar&label=Profile%20views&color=0e75b6&style=flat" alt="treelunar" /> </p>
 
 ### Hi and welcome! 👋
-### I am an analyst with a love of philosophy!
+### I am a philosophy instructor and an enthusiast of data analysis. 🤔📈
+### My journey involves merging philosophical insights with data analytics.🌉🧠
+### I'm actively seeking opportunities in both teaching and data-driven roles. 🏫💻
+### I welcome opportunities for collaboration and growth! 🤝🌱
 
 - ✈ I’m currently doing [**sentiment analysis on airline reviews**](https://github.com/treelunar/2023_Airline_Reviews_Analysis), and the [**first EDA part**](https://www.kaggle.com/code/treelunar/airline-review-analysis-part-1-eda) is on Kaggle!
 
