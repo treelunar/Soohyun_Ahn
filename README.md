@@ -14,6 +14,7 @@
 - 😄 Pronouns: she/her/hers
 
 ### News to share!
+- 📒 I compiled my writings on various subjects (AI, technology, education, etc.) into a [blog](https://sooahnphilosophy.wixsite.com/my-site). Check it out!
 - ☑ I earned a certificate in [Data Integration with Microsoft Azure Data Factory](https://www.coursera.org/account/accomplishments/certificate/WDTJHQMJJBBC) in August 2023!
 - 🖥 I passed the "Git" LinkedIn Skill Assessment in July 2023! 
 - 🐍 I passed the "Python" LinkedIn Skill Assessment in June 2023!
