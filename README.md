@@ -2,18 +2,16 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=treelunar&label=Profile%20views&color=0e75b6&style=flat" alt="treelunar" /> </p>
 
 ### Hi and welcome! 👋
-### I am a philosophy instructor and an enthusiast of data analysis. 🤔📈
-### My journey involves merging philosophical insights with data analytics.🌉🧠
-### I'm actively seeking opportunities in both teaching and data-driven roles. 🏫💻
-### I welcome opportunities for collaboration and growth! 🤝🌱
+### I am a philosophy instructor with an interest in data analysis. 🤔📈
 
-- ✈ I’m currently doing [**sentiment analysis on airline reviews**](https://github.com/treelunar/2023_Airline_Reviews_Analysis), and the [**first EDA part**](https://www.kaggle.com/code/treelunar/airline-review-analysis-part-1-eda) is on Kaggle!
+- ✈ I did some [**sentiment analysis on airline reviews**](https://github.com/treelunar/2023_Airline_Reviews_Analysis), and the [**first EDA part**](https://www.kaggle.com/code/treelunar/airline-review-analysis-part-1-eda) is on Kaggle!
 
-- 🌱 My first project is here: [**ReelWhisperer: Story-Driven Movie Recommendations**](https://github.com/treelunar/2023_Capstone_BSTN)
+- 🌱 My first-ever data science project is here: [**ReelWhisperer: Story-Driven Movie Recommendations**](https://github.com/treelunar/2023_Capstone_BSTN)
 
 - 😄 Pronouns: she/her/hers
 
 ### News to share!
+- 🎉 Thrilled to join Southern Alberta Institute of Technology (SAIT) as a new faculty member, leading Logic and Critical Thinking!
 - 📒 I compiled my writings on various subjects (AI, technology, education, etc.) into a [blog](https://sooahnphilosophy.wixsite.com/my-site). Check it out!
 - ☑ I earned a certificate in [Data Integration with Microsoft Azure Data Factory](https://www.coursera.org/account/accomplishments/certificate/WDTJHQMJJBBC) in August 2023!
 - 🖥 I passed the "Git" LinkedIn Skill Assessment in July 2023! 
